@@ -4,11 +4,13 @@ Práctica de invididual de copias de seguridad y restauración.
 
 Realizada por Jose Carlos Rodríguez Cañas.
 
-[1. Realiza una copia de seguridad lógica de tu base de datos completa, teniendo en cuenta los siguientes requisitos:
+[1. Realiza una copia de seguridad lógica de tu base de datos completa, teniendo en cuenta los siguientes requisitos:](/Ejercicios/ejercicio1.md)
 
-▪ La copia debe estar encriptada y comprimida.
-▪ Debe realizarse en un conjunto de ficheros con un tamaño máximo de 75 MB.
-▪ Programa la operación para que se repita cada día a una hora determinada.](/Ejercicios/ejercicio1.md)
+[- La copia debe estar encriptada y comprimida.](/Ejercicios/ejercicio1.md)
+
+[-  Debe realizarse en un conjunto de ficheros con un tamaño máximo de 75 MB.](/Ejercicios/ejercicio1.md)
+
+[- Programa la operación para que se repita cada día a una hora determinada.](/Ejercicios/ejercicio1.md)
 
 [2. Restaura la copia de seguridad lógica creada en el punto anterior.](/Ejercicios/ejercicio2.md)
 
