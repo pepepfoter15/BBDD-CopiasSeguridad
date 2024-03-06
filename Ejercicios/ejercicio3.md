@@ -1,0 +1,1 @@
+### 3. Pon tu base de datos en modo ArchiveLog y realiza con RMAN una copia de seguridad física en caliente.
