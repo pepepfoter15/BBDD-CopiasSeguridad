@@ -3,6 +3,7 @@
 Para restaurar la copia de seguridad lógica creada en el punto anterior, primero eliminaré las tablas del usuario scott de la siguiente manera. Primero accedo al usuario, después cosultamos las tablas del usuario y por último borramos todas sus tablas.
 
 ```sql
+sqlplus / as sysdba
 alter session set "_ORACLE_SCRIPT"=true;
 sqlplus scott/scott;
 
@@ -32,7 +33,7 @@ Si queremos ver los logs de este mismo tendremos que ejecutar el siguienet coman
 cat /opt/oracle/copiaseg/copiaseg_20240307133438.log
 ```
 
-Si queremos ver si se ha importado de manera correcta, accedemos al usuario y realizamos la siguiente consulta:
+Si queremos ver si se ha importado de manera correcta, accedemos al usuario SYSDBA y realizamos la siguiente consulta:
 
 ```sql
 sqlplus / as sysdba
