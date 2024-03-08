@@ -16,7 +16,7 @@ Para ver el contenido de las sentencias SQL que tiene nuestra copia, tendremos q
 cat copiaseg/copiaseg.sql
 ```
 
-Para comprobar que la restauración de la base de datos funciona correctamente, tendremos que eliminar la base de datos y el usuario scott. Esto lo haremos con el siguiente comando:
+Para comprobar que la restauración de la base de datos funciona correctamente, tendremos que eliminar la base de datos y el usuario scott. Esto lo haremos con los siguientes comandos:
 
 ```sql
 psql
