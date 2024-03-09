@@ -68,4 +68,6 @@ SELECT *
 FROM emp;
 ```
 
+![FOTOS](img/43.png)
+
 Como podemos apreciar, la base de datos se ha restaurado correctamente en MySQL.
